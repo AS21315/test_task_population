@@ -23,7 +23,7 @@ This service scrapes population data from a Wikipedia page on countries by popul
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/test_task_population.git
+git clone https://github.com/AS21315/test_task_population.git
 ```
 
 2. Navigate to the project directory:
