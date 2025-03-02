@@ -24,7 +24,7 @@ This service scrapes population data from either Wikipedia or Statistics Times, 
 
 1. Clone the repository:
 ```
-git clone https://github.com/AS21315/test_task_population.git
+git clone https://github.com/yourusername/test_task_population.git
 ```
 
 2. Navigate to the project directory:
@@ -106,5 +106,10 @@ The application stores country data in a single table with the following structu
 
 The application can fetch data from two sources:
 
-Data is sourced from the Wikipedia page on countries by population (United Nations):
-https://en.wikipedia.org/w/index.php?title=List_of_countries_by_population_(United_Nations)&oldid=1215058959
+1. **Wikipedia**:  
+   United Nations population data from Wikipedia:  
+   https://en.wikipedia.org/w/index.php?title=List_of_countries_by_population_(United_Nations)&oldid=1215058959
+
+2. **Statistics Times**:  
+   Population statistics from Statistics Times:  
+   https://statisticstimes.com/demographics/countries-by-population.php
